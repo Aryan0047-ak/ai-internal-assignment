@@ -23,3 +23,15 @@ Matplotlib: For data visualizatio
 ## Data Source(s)
 
 https://public.tableau.com/app/profile/umesh.kathar/viz/Crimeratedashboardusingtwodatasets/Dashboard1
+The dataset used in the project is containing information about violent crime statistics for U.S. cities.
+
+## Execution Steps (How to run the project)
+Install Python (version 3.7 or higher) and the required libraries using the following commands:
+bash
+Copy code
+pip install pandas matplotlib
+Save the dataset file (Top 10 Crime Cities in US_data.csv) in the project folder.
+Run the Python script provided in the repository to generate the bar graph.
+The output graph will visualize:
+The percentage of total violent crime for each city (bar chart).
+The absolute violent crime rates (line chart).
