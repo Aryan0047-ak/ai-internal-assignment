@@ -31,8 +31,6 @@ Install Python (version 3.7 or higher) and the required libraries using the foll
 
 bash 
 
-Copy code
-
 pip install pandas matplotlib
 
 Save the dataset file (Top 10 Crime Cities in US_data.csv) in the project folder.
