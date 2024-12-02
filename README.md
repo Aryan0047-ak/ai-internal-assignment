@@ -45,7 +45,7 @@ The percentage of total violent crime for each city (bar chart).
 
 The absolute violent crime rates (line chart).
 ## Summary of Results
-ansas City, Indianapolis, Stockton, and Baltimore are among the cities with the highest violent crime rates.
+ kansas City, Indianapolis, Stockton, and Baltimore are among the cities with the highest violent crime rates.
 
 The graph visually highlights each city's contribution to the total violent crime and allows for easy comparison.
 ## Challenges Faced
